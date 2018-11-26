@@ -27,6 +27,7 @@ public class PTra05_04 {
 
 		String line = scanner.nextLine();
 		
+	
 		switch(line) {
 		
 			case "0":
@@ -49,12 +50,7 @@ public class PTra05_04 {
 			case "6":
 				System.out.println("土曜");
 				break;
-			default:
-	
-			
-					
-				
-				
+		
 		}
 	}
 }

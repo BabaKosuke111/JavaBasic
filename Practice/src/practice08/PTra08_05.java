@@ -44,7 +44,7 @@ public class PTra08_05 {
 	 *
 	 * 引数で渡された横の長さ(width)と縦の長さ(height)から、四角形の面積を返すメソッド
 	 */
-
+}public static double 
 
 	/*
 	 * ★ 以下の仕様でメソッドを作成してください

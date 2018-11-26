@@ -20,11 +20,14 @@ public class PTra06_06 {
 		 * ■■■□□16,17,18.19.20
 		 * ■■■■□21,22,23,24.25
 		 */
-		for(int i=1;i<=25;i++) {
-			System.out.print("□");
-			if(i%5==0) {
-				System.out.println("■");
+		for (int i = 0; i < 5; i++) {
+			for (int j = 0; j < i; j++) {
+				System.out.print("■");
 			}
+			for (int j = 5; j > i; j--) {
+				System.out.print("□");
+			}
+			System.out.println();
 		}
 	}
 }
