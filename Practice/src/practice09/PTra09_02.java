@@ -18,9 +18,9 @@ public class PTra09_02 {
 		// ※ Utilはインポートしても良いし、完全限定名で記述しても良いです
 	
 			List<String> list = Arrays.asList(array);
-			Collections.shuffle(list);
+		Collections.shuffle(list);
 
 		// ★ ランダムに並び替えた後の配列を前から順に全て表示してください
-	System.out.println(list);
+		System.out.println(list);
 	}
 }

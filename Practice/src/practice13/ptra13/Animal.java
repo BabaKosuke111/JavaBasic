@@ -4,7 +4,7 @@
  *------------------------------------------------------------
  * Copyright(c) Rhizome Inc. All Rights Reserved.
  */
-package practice13.common;
+package practice13.ptra13;
 
 /**
  * 動物の情報や行動を持ったクラスです

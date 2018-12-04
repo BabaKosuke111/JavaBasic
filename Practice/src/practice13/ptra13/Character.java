@@ -4,7 +4,7 @@
  *------------------------------------------------------------
  * Copyright(c) Rhizome Inc. All Rights Reserved.
  */
-package practice13.common;
+package practice13.ptra13;
 
 /**
  * 登場するキャラクターの情報とデフォルトの行動を設定したクラスです
@@ -75,6 +75,7 @@ public class Character {
 
 		// ダメージ分体力を減らす
 		this.hp -= calc;
+		System.out.println(this.name + ":" + this.hp);
 
 		// 体力がなくなったかどうかの判定
 		if (this.hp <= 0) {
