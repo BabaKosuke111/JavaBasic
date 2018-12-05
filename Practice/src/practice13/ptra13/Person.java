@@ -4,7 +4,7 @@
  *------------------------------------------------------------
  * Copyright(c) Rhizome Inc. All Rights Reserved.
  */
-package practice13.common;
+package practice13.ptra13;
 
 /**
  * ユーザ情報を保持するクラスです

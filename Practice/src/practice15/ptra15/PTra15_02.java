@@ -18,6 +18,6 @@ public class PTra15_02 {
 
 
 		// 取得したカリキュラム情報を全て出力してください
-
+		System.out.println();
 	}
 }

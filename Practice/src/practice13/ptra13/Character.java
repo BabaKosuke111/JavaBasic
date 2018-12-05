@@ -52,6 +52,13 @@ public class Character {
 		return this.name;
 	}
 
+	public int getPower() {
+		return this.power;
+	}
+	public void setPower(int power) {
+		this.power=power;
+	}
+
 	/**
 	 * 攻撃を行います
 	 * @return 相手に与えるダメージを返します

@@ -20,11 +20,11 @@ public class Item {
 		this.additionalDamage=additionalDamage;
 	}
 
-	Item(String name){
+	Item(String name,int additionalDamage){
 		this.name=name;
-	}
-
-	Item(int additionalDamage){
 		this.additionalDamage=additionalDamage;
 	}
+
+	
+	
 }

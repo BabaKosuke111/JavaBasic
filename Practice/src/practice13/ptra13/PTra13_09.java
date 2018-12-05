@@ -34,6 +34,9 @@ public class PTra13_09 {
 	public static void main(String[] args) {
 
 		// ★ 定数で定義されている各データを使用して、Employeeインスタンスを３つ作成してください
-
+		Employee employee1=new Employee();
+		Employee employee2=new Employee();
+		Employee employee3=new Employee();
+		
 	}
 }
